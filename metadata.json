@@ -1,0 +1,6 @@
+{
+  "name": "Tays Sales - Psicóloga",
+  "description": "Landing page da psicóloga clínica Tays Sales. Foco em agendamento de sessões e conversão via Google Ads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
